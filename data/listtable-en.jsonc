@@ -1,0 +1,56 @@
+{
+    "list": {
+        "columns": {
+            "common": [
+                {
+                    "id": "actid",
+                    "hidden": true
+                },
+                {
+                    "id": "osmid",
+                    "hidden": true
+                },
+                {
+                    "id": "category",
+                    "name": "Category",
+                    "hidden": true
+                },
+                {
+                    "id": "name",
+                    "name": "name"
+                },
+                {
+                    "id": "title",
+                    "name": "title"
+                },
+                {
+                    "id": "actor",
+                    "name": "actor"
+                },
+                {
+                    "id": "eventdate",
+                    "name": "datetime",
+                    "hidden": true
+                }
+            ],
+            "poiFields": [
+                "id",
+                "id",
+                "category",
+                "name",
+                "title",
+                "actor",
+                "eventdate"
+            ],
+            "actFields": [
+                "#id",
+                "id",
+                "category",
+                "name",
+                "title",
+                "actor",
+                "eventdate"
+            ]
+        }
+    }
+}

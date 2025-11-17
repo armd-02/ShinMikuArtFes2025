@@ -1,0 +1,306 @@
+{
+    "act_add": {
+        "ja": "追加",
+        "en": "Add"
+    },
+    "act_edit": {
+        "ja": "編集",
+        "en": "Edit"
+    },
+    "act_save": {
+        "ja": "保存",
+        "en": "Save"
+    },
+    "act_upload": {
+        "ja": "アップロード",
+        "en": "Upload"
+    },
+    "act_name": {
+        "ja": "ニックネーム",
+        "en": "Name"
+    },
+    "act_userid": {
+        "ja": "ユーザー名",
+        "en": "User ID"
+    },
+    "act_passwd": {
+        "ja": "パスワード",
+        "en": "Password"
+    },
+    "act_attention": {
+        "ja": "写真URLにWikimedia Commonsを指定する時は、タイトルを入力してください(例 File:遊具名.jpg)",
+        "en": "When specifying Wikimedia Commons for the photo URL, enter the title (e.g. File: Play equipment name.jpg)"
+    },
+    "act_confirm": {
+        "ja": "上記の内容でデータを登録・更新しますか？",
+        "en": "register / update data with this contents?"
+    },
+    "act_error": {
+        "ja": "登録失敗。ユーザー名とパスワードを確認してください",
+        "en": "failed. Please check your username and password"
+    },
+    "category": {
+        "ja": "カテゴリ",
+        "en": "Category"
+    },
+    "title": {
+        "ja": "タイトル",
+        "en": "Title"
+    },
+    "download": {
+        "ja": "一覧表をダウンロード",
+        "en": "list download"
+    },
+    "zoomlevel": {
+        "ja": "ズームレベル：",
+        "en": "Zoom Level: "
+    },
+    "update": {
+        "ja": "更新日: ",
+        "en": "Update: "
+    },
+    "getdate": {
+        "ja": "取得日時: ",
+        "en": "Getdate: "
+    },
+    "share_link": {
+        "ja": "Link",
+        "en": "Link"
+    },
+    "copyShareLink": {
+        "ja": "シェア用のリンクを取得",
+        "en": "Get a link to share"
+    },
+    "add_activity": {
+        "ja": "情報追加",
+        "en": "add Activity"
+    },
+    "morezoom": {
+        "ja": "ズームしてください",
+        "en": "Please zoom more."
+    },
+    "button_ok": {
+        "ja": "決定",
+        "en": "OK"
+    },
+    "button_cancel": {
+        "ja": "キャンセル",
+        "en": "Cancel"
+    },
+    "button_close": {
+        "ja": "閉じる",
+        "en": "close"
+    },
+    "button_yes": {
+        "ja": "はい",
+        "en": "YES"
+    },
+    "button_no": {
+        "ja": "いいえ",
+        "en": "NO"
+    },
+    "available": {
+        "ja": "有り",
+        "en": "available"
+    },
+    "unavailable": {
+        "ja": "無し",
+        "en": "unavailable"
+    },
+    "limited": {
+        "ja": "限定的",
+        "en": "limited"
+    },
+    "loading_title": {
+        "ja": "マップデータのロード中",
+        "en": "Loading map data"
+    },
+    "loading_message": {
+        "ja": "ロード中です。しばらくお待ちください。",
+        "en": "Loading... Please wait a moment."
+    },
+    "location": {
+        "ja": "現在地を表示",
+        "en": "Show current location."
+    },
+    "sverror_title": {
+        "ja": "データ取得に失敗",
+        "en": "Failed to retrieve data."
+    },
+    "sverror_message": {
+        "ja": "データ取得に失敗。30秒後やり直して下さい。",
+        "en": "Data acquisition failed. Please try again after 30 seconds."
+    },
+    "wikipedia": {
+        "ja": "Wikipedia",
+        "en": "Wikipedia"
+    },
+    "qrcode_make": {
+        "ja": "QRコード生成",
+        "en": "QR-code generatie"
+    },
+    "source_wikipedia": {
+        "ja": "(出典/記事: Wikipedia)",
+        "en": "(Source/Article: Wikipedia)"
+    },
+    "defaultSelect": {
+        "ja": "🌏おまかせ",
+        "en": "(default)"
+    },
+    "undefined": {
+        "ja": "(名称不明)",
+        "en": "(name unknown)"
+    },
+    "tags_website": {
+        "ja": "ホームページ",
+        "en": "Web Site"
+    },
+    "tags_phone": {
+        "ja": "電話番号",
+        "en": "telephone"
+    },
+    "tags_type": {
+        "ja": "施設種別",
+        "en": "Facility type"
+    },
+    "openstreetmap": {
+        "ja": "OpenStreetMapについて",
+        "en": "about OpenStreetMap"
+    },
+    "osm_open": {
+        "ja": "OpenStreetMapで見る",
+        "en": "See in OpenStreetMap"
+    },
+    "visited": {
+        "ja": "訪問済み",
+        "en": "Visited"
+    },
+    "export_visited": {
+        "ja": "訪問済みデータを書き出す",
+        "en": "Export visited data"
+    },
+    "import_visited": {
+        "ja": "訪問済みデータを取り込む",
+        "en": "Import visited data"
+    },
+    "visited_filter": {
+        "ja": "訪問済みフィルター",
+        "en": "Filter by visited"
+    },
+    "visited_filter_off": {
+        "ja": "無効",
+        "en": "Off"
+    },
+    "visited_filter_visited": {
+        "ja": "訪問済み",
+        "en": "Visited"
+    },
+    "visited_filter_unvisited": {
+        "ja": "未訪問",
+        "en": "Unvisited"
+    },
+    "favorite": {
+        "ja": "お気に入り",
+        "en": "Favorite"
+    },
+    "favorite_filter": {
+        "ja": "お気に入りのみ表示",
+        "en": "Filter by favorite"
+    },
+    "reservation_yes": {
+        "ja": "要予約",
+        "en": "reservation yes"
+    },
+    "reservation_no": {
+        "ja": "予約不要",
+        "en": "reservation no"
+    },
+    "reservation_recommended": {
+        "ja": "予約推奨",
+        "en": "reservation recommended"
+    },
+    "reservation_memo": {
+        "ja": "メモ",
+        "en": "memo"
+    },
+    "results": {
+        "ja": "処理結果",
+        "en": "Processing results"
+    },
+    "file_select": {
+        "ja": "ファイルを選択してください",
+        "en": "Plase Select File"
+    },
+    "file_notfound": {
+        "ja": "ファイルが見つかりません",
+        "en": "File not Found"
+    },
+    "file_error": {
+        "ja": "ファイル内容が不正です",
+        "en": "File contents are invalid"
+    },
+    "file_loaded": {
+        "ja": "ファイルを読み込みました",
+        "en": "The file was loaded"
+    },
+    "Mo": {
+        "ja": "Mo",
+        "en": "月"
+    },
+    "Tu": {
+        "ja": "Tu",
+        "en": "火"
+    },
+    "We": {
+        "ja": "水",
+        "en": "We"
+    },
+    "Th": {
+        "ja": "木",
+        "en": "Th"
+    },
+    "Fr": {
+        "ja": "金",
+        "en": "Fr"
+    },
+    "Sa": {
+        "ja": "土",
+        "en": "Sa"
+    },
+    "Su": {
+        "ja": "日",
+        "en": "Su"
+    },
+    "PH": {
+        "ja": "祝日",
+        "PH": "PH"
+    },
+    "off": {
+        "ja": "休業",
+        "en": "Off"
+    },
+    "24/7": {
+        "ja": "24時間営業",
+        "en": "24 Hours"
+    },
+    "closed": {
+        "ja": "休み",
+        "en": "Holyday"
+    },
+    "parse_error": {
+        "ja": "解析に失敗",
+        "en": "Parse error"
+    },
+    "opening": {
+        "ja": "営業中",
+        "en": "Open"
+    },
+    "changing_table": {
+        "ja": "おむつ替え台",
+        "en": "Diaper changing station"
+    },
+    "searchKeyword": {
+        "ja": "キーワード検索",
+        "en": "searchKeyword"
+    }
+}

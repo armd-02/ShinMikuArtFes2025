@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>新大阪・三国アートフェスマップ2025</title>
+    <meta name="google-site-verification" content="" />
+    <meta charset="utf-8" />
+    <meta name="description" content="新大阪・三国アートフェスマップ2025">
+    <meta property="og:description" content="新大阪・三国アートフェスマップ2025" />
+    <meta property="og:url" content="https://armd-02.github.io/ShinMikuArtFes2025" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="新大阪・三国アートフェスマップ2025" />
+    <meta property="og:image" content="https://armd-02.github.io/ShinMikuArtFes2025/image/splash.jpg" />
+    <meta property="og:image:width" content="1024" />
+    <meta property="og:image:height" content="1024" />
+
+    <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1" />
+    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="stylesheet" href="system.css" />
+    <script type="module" src="./loader.module.js"></script>
+</head>
+
+<body>
+    <div class="container-fluid m-0 p-0">
+        <article id="article" class="two-pane">
+            <main id="top-pane">
+                <div id="mapid">
+                </div>
+            </main>
+            <aside id="bottom-pane">
+                <div id="btmHeader" class="row p-1 m-1 sticky-top">
+                    <div id="panelProgress" class="col-12 p-0 mb-2 progress progress-bar bg-success"></div>
+
+                    <div class="col-12 p-0 d-flex">
+                        <div class="dropdown-menu" aria-labelledby="btnMenu" id="btnMenu"></div>
+                        <button class="btn btn-light border-secondary p-0 me-1 d-none" data-bs-toggle="dropdown"
+                            aria-expanded="true" style="width: 30px; height: 30px">
+                            <i class="fas fa-bars text-black"></i>
+                        </button>
+                        <span class="detailTitle" id="btmWindow_title"></span>
+                    </div>
+                </div>
+                <div id="btmWindow" class="" tabindex="-1">
+                    <div class="m-1">
+                        <div id="mini-map" class="d-none mx-auto"></div>
+                        <div id="btmWindow_message"></div>
+                        <div class="footerSpace"></div>
+                    </div>
+                </div>
+                <div id="sidebarCont" class="row fixed-bottom m-2 pe-none d-none">
+                    <div class="col-7 p-0">
+                        <div id="sideBarPanel"></div>
+                        <div class="btn-group btn-group-lg pe-auto"></div>
+                    </div>
+                    <div class="col-5 p-0">
+                        <div class="ms-auto btn-group btn-group-lg d-flex pe-auto">
+                            <button class="btn btn-light border-secondary p-1" id="sidebarMinimize"
+                                onclick="javascript: winCont.setSidebar('mini'),true">
+                                <i class="fa-solid fa-window-minimize"></i>
+                            </button>
+                            <button class="btn btn-light border-secondary p-1" id="sidebarChange"
+                                onclick="javascript: winCont.setSidebar('change',true)">
+                                <i class="fa-solid fa-chevron-down"></i>
+                            </button>
+                            <button class="btn btn-light border-secondary p-1"
+                                onclick="javascript:cMapMaker.viewDetail()">
+                                <i class="fa-solid fa-check"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </aside>
+        </article>
+    </div>
+
+    <div id="splashImage" class="modal" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document" data-keyboard="false">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <img src="" style="width: 100%;float: none !important" id="splashSrc"><br>
+                    <div class="d-flex justify-content-center mt-2">
+                        <div class="spinner-border text-primary mx-auto" role="status"> <span
+                                class="sr-only">Loading...</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="PinchImageBK" onclick="modalActs.pinchImage(false)">
+        <div class="d-flex align-items-center justify-content-center h-100">
+            <div class="spinner-border text-primary" id="image_spinner"></div>
+        </div>
+    </div>
+    <img id="PinchImage" onclick="modalActs.pinchImage(false)"></img>
+
+    <div id="scrollHand" class="d-flex justify-content-center d-none">
+        <img src="./image/hand-pointer-solid.svg" width="42px">
+    </div>
+</body>
+
+</html>

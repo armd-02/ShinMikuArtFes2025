@@ -1,0 +1,102 @@
+{
+    "site_title": {
+        "ja": "新大阪・三国アートフェスマップ2025",
+        "en": "Higayodo Street Map 2025"
+    },
+    "site_subtitle": {
+        "ja": "新大阪・三国アートフェス実行委員会",
+        "en": "Higayodo Art-fes Executive Committee"
+    },
+    "about": {
+        "ja": "新大阪・三国アートフェスマップ2025について",
+        "en": "about Higayodo Street Map 2025"
+    },
+    "about_message": {
+        "ja": "新大阪・三国アートフェス実行委員会が主催しているイベントや施設情報を表示します。",
+        "en": "Displays information on events and facilities sponsored by the Higayodo Art Festival Executive Committee."
+    },
+    "owner": {
+        "ja": "プロジェクトのブログ・サイトへ",
+        "en": "To the project blog site"
+    },
+    "licence_title": {
+        "ja": "利用しているデータについて",
+        "en": "about playground equipment map"
+    },
+    "licence_message": {
+        "ja": "新大阪・三国アートフェスマップ2025のデータはOpenStreetMapと独自データを組み合わせています。</a>",
+        "en": "The data of Hiagyodoa Street Map 2025 is a combination of OpenStreetMap and original.</a>"
+    },
+    "develop_site": {
+        "ja": "",
+        "en": ""
+    },
+    "more_message": {
+        "ja": "",
+        "en": ""
+    },
+    "act_title": {
+        "ja": "【題名】",
+        "en": "[Subject] "
+    },
+    "act_actor": {
+        "ja": "【出演/作家】",
+        "en": "[Actor]"
+    },
+    "act_actor_profile": {
+        "ja": "【プロフィール】",
+        "en": "[Profile]"
+    },
+    "act_genre": {
+        "ja": "【ジャンル】",
+        "en": "[Genre] "
+    },
+    "act_datetime": {
+        "ja": "【開催日時】",
+        "en": "[DateTime]"
+    },
+    "act_enter": {
+        "ja": "【来場時】",
+        "en": "[Entering]"
+    },
+    "act_fee": {
+        "ja": "【料金】",
+        "en": "[Fee]"
+    },
+    "act_reserve": {
+        "ja": "【予約方法】",
+        "en": "[Reserve]"
+    },
+    "act_memo": {
+        "ja": "",
+        "en": ""
+    },
+    "act_address": {
+        "ja": "【住所】",
+        "en": "[Address] "
+    },
+    "act_openning": {
+        "ja": "【営業時間】",
+        "en": "[openning] "
+    },
+    "act_detail_url": {
+        "ja": "【詳細URL】",
+        "en": "[detail URL] "
+    },
+    "act_picture_url1": {
+        "ja": "【写真URL1】",
+        "en": "[Picture URL1] "
+    },
+    "act_picture_url2": {
+        "ja": "【写真URL2】",
+        "en": "[Picture URL2] "
+    },
+    "act_picture_url3": {
+        "ja": "【写真URL3】",
+        "en": "[Picture URL3] "
+    },
+    "act_picture_url4": {
+        "ja": "【写真URL4】",
+        "en": "[Picture URL4] "
+    }
+}
