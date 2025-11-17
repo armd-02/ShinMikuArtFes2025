@@ -147,7 +147,6 @@
             }
         ],
         "mainSystem": [
-            /*
             {
                 "glot-model": "export_visited",
                 "linkto": "javascript:poiStatusCont.export()",
@@ -158,7 +157,6 @@
                 "linkto": "javascript:poiStatusCont.import()",
                 "divider": false
             }
-                */
         ],
         // 詳細表示のハンバーガーメニュー
         "modal": [
