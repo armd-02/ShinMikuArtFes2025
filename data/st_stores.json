@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.62.8 e802775f",
     "osm3s": {
-        "timestamp_osm_base": "2025-11-17T13:17:24Z",
+        "timestamp_osm_base": "2025-11-19T14:07:12Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -123,9 +123,9 @@
             "id": 10576279110,
             "lat": 34.7399212,
             "lon": 135.4998969,
-            "timestamp": "2025-10-28T03:10:55Z",
-            "version": 3,
-            "changeset": 173863412,
+            "timestamp": "2025-11-19T05:31:52Z",
+            "version": 4,
+            "changeset": 174843336,
             "user": "t_matsukura",
             "uid": 21292672,
             "tags": {
@@ -138,6 +138,7 @@
                 "addr:quarter": "東三国",
                 "addr:suburb": "淀川区",
                 "check_date": "2025-10-28",
+                "contact:instagram": "and.care.7340",
                 "name": "&Care",
                 "opening_hours": "10:00-24:00",
                 "phone": "06-6398-7340",
@@ -561,9 +562,9 @@
             "id": 12167450572,
             "lat": 34.7399667,
             "lon": 135.4954424,
-            "timestamp": "2024-10-01T16:57:30Z",
-            "version": 3,
-            "changeset": 157348828,
+            "timestamp": "2025-11-19T06:07:29Z",
+            "version": 4,
+            "changeset": 174844029,
             "user": "t_matsukura",
             "uid": 21292672,
             "tags": {
@@ -577,6 +578,7 @@
                 "addr:suburb": "淀川区",
                 "amenity": "restaurant",
                 "check_date": "2024-09-10",
+                "contact:instagram": "courage_2308",
                 "cuisine": "italian",
                 "name": "COURAGE"
             }
@@ -613,9 +615,9 @@
             "id": 12168207781,
             "lat": 34.7388391,
             "lon": 135.4864963,
-            "timestamp": "2025-06-18T11:16:23Z",
-            "version": 4,
-            "changeset": 167777442,
+            "timestamp": "2025-11-19T05:41:53Z",
+            "version": 5,
+            "changeset": 174843514,
             "user": "t_matsukura",
             "uid": 21292672,
             "tags": {
@@ -629,7 +631,7 @@
                 "addr:suburb": "淀川区",
                 "check_date": "2025-06-07",
                 "clothes": "children",
-                "contact:instagram": "reminisce_2021 8end.cafe",
+                "contact:instagram": "reminisce_2021",
                 "name": "∞end",
                 "name:ja": "エイトエンド",
                 "shop": "clothes"
@@ -716,9 +718,9 @@
             "id": 12893905089,
             "lat": 34.7383390,
             "lon": 135.4857905,
-            "timestamp": "2025-10-28T03:27:02Z",
-            "version": 2,
-            "changeset": 173863622,
+            "timestamp": "2025-11-19T05:35:42Z",
+            "version": 3,
+            "changeset": 174843407,
             "user": "t_matsukura",
             "uid": 21292672,
             "tags": {
@@ -732,6 +734,8 @@
                 "addr:suburb": "淀川区",
                 "amenity": "bar",
                 "check_date": "2025-10-28",
+                "contact:instagram": "kanna.min",
+                "contact:twitter": "kanna.rithu",
                 "name": "スナック　和灯",
                 "opening_hours": "Mo-Tu 20:00-24:00 Th-Fr 20:00-24:00 Sa-Su 11:00-24:00"
             }
@@ -792,9 +796,9 @@
             "id": 13275548693,
             "lat": 34.7403467,
             "lon": 135.4997639,
-            "timestamp": "2025-11-02T13:58:59Z",
-            "version": 1,
-            "changeset": 174104185,
+            "timestamp": "2025-11-19T13:45:57Z",
+            "version": 2,
+            "changeset": 174860145,
             "user": "t_matsukura",
             "uid": 21292672,
             "tags": {
@@ -807,11 +811,11 @@
                 "addr:quarter": "東三国",
                 "addr:suburb": "淀川区",
                 "amenity": "cafe",
+                "contact:instagram": "shoppingplazacoffee",
                 "cuisine": "coffee_shop",
                 "name": "ショッピングプラザコーヒー",
                 "outdoor_seating": "no",
-                "phone": "06-6392-3066",
-                "website": "https://www.instagram.com/shoppingplazacoffee"
+                "phone": "06-6392-3066"
             }
         },
         {
